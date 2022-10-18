@@ -1,0 +1,8 @@
+C:\VisualStudio\.netCore\MulticastingDelegates\MulticastingDelegates\obj\Debug\MulticastingDelegates.csproj.AssemblyReference.cache
+C:\VisualStudio\.netCore\MulticastingDelegates\MulticastingDelegates\obj\Debug\MulticastingDelegates.csproj.SuggestedBindingRedirects.cache
+C:\VisualStudio\.netCore\MulticastingDelegates\MulticastingDelegates\obj\Debug\MulticastingDelegates.csproj.CoreCompileInputs.cache
+C:\VisualStudio\.netCore\MulticastingDelegates\MulticastingDelegates\bin\Debug\MulticastingDelegates.exe.config
+C:\VisualStudio\.netCore\MulticastingDelegates\MulticastingDelegates\bin\Debug\MulticastingDelegates.exe
+C:\VisualStudio\.netCore\MulticastingDelegates\MulticastingDelegates\bin\Debug\MulticastingDelegates.pdb
+C:\VisualStudio\.netCore\MulticastingDelegates\MulticastingDelegates\obj\Debug\MulticastingDelegates.exe
+C:\VisualStudio\.netCore\MulticastingDelegates\MulticastingDelegates\obj\Debug\MulticastingDelegates.pdb
